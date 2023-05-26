@@ -4,4 +4,4 @@
        </a>
 </p>
 
-<p>When i wrote this code, only God and I knew how it worked, now only God knows because i forgot to add comments</p>
+<p align='center'>When i wrote this code, only God and I knew how it worked, now only God knows because i forgot to add comments</p>
